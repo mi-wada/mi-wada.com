@@ -1,11 +1,6 @@
 # mi-wada.com
 
-## Pre-requisites
-
-* pnpm
-  * <https://pnpm.io/>
-
-## Preview at local
+## Run at local
 
 ```shell
 npm run dev
